@@ -18,7 +18,7 @@
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ### 😂 Random Dev Meme
-<img src='https://randommeme-five.vercel.app/' style="height: 400px;"/>
+<img src='[https://randommeme-five.vercel.app/](https://file.forms.app/sitefile/55+Hilarious-developer-memes-that-will-leave-you-in-splits-2.jpeg)' style="height: 400px;"/>
 
 ---
 [![](https://visitcount.itsvg.in/api?id=Deepanshu1337&icon=0&color=0)](https://visitcount.itsvg.in)
