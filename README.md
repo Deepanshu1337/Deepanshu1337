@@ -2,9 +2,9 @@
 <h3 align="center">A passionate Web developer from India</h3>
 
 
-- 🌱 I’m currently learning : **software architecture and design patterns to enhance the scalability and maintainability of my code.**
+- 🌱 I’m currently learning : **React js , Javascript, Bootstrap and other frontend technologies.**
 
-- 💬 Ask me about : **front-end development, UI/UX design, project management, and best practices in web development.**
+- 💬 Ask me about : **front-end development, ReactJs, Redux, and best practices in web development.**
 
 - 📫 How to reach me : **deepanshudixit07@gmail.com**
 
